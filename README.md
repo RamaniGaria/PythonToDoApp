@@ -15,4 +15,8 @@ To run this application, use the following command in a terminal:
 ```bash
 python todo_list.py
 ```
-
+## Installation
+To download this project, clone it via GitHub using the following command:
+```bash
+git clone https://github.com/RamaniGaria/PythonToDoApp.git
+```
